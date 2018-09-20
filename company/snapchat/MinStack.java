@@ -13,6 +13,7 @@
  * int param_4 = obj.getMin();
  */
 class MinStack {
+    //only just try it
     class Node {
         int data;
         int min;
